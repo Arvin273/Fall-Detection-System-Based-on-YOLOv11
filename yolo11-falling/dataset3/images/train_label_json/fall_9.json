@@ -1,0 +1,64 @@
+{
+  "version": "5.6.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "falling",
+      "points": [
+        [
+          101.4388489208633,
+          52.884892086330964
+        ],
+        [
+          612.230215827338,
+          575.1870503597122
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "falling",
+      "points": [
+        [
+          353.9568345323741,
+          222.66906474820144
+        ],
+        [
+          693.525179856115,
+          490.294964028777
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "standing",
+      "points": [
+        [
+          104.31654676258991,
+          460.0791366906475
+        ],
+        [
+          2.1582733812949613,
+          0.36690647482017824
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\train\\fall_9.jpg",
+  "imageData": null,
+  "imageHeight": 618,
+  "imageWidth": 800
+}

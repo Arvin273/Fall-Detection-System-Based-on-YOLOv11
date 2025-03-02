@@ -1,0 +1,9 @@
+path: D:/ai-project/my_yolo_fall/yolo11-falling/dataset2
+train:
+  - images/train
+val:
+  - images/val
+
+names:
+  [ 'falling',
+    'standing', ]
